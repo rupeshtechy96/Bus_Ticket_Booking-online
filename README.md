@@ -66,7 +66,7 @@ Bus Management System/
 
 ## Demo Accounts
 
-- **Admin**: Username: `admin`, Password: `admin123`
+- **Admin**: Username: `admin`, Password: `*****123`
 - **Customer**: Register a new account
 
 ## Customization
